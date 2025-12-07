@@ -50,7 +50,9 @@ git clone https://github.com/danielbaradaran31-hash/REPO-Admin-Dashboard.git
 
 📌 Ziel des Projekts
 
-Ziel dieses Projekts ist es, ein erweiterbares Dashboard mit hoher Performance und modernem UI zu entwickeln, das Verkaufsdaten, Nutzerstatistiken, Bestellungen und Produkte strukturiert und effizient darstellt.
+Ziel dieses Projekts ist es, ein erweiterbares Dashboard mit hoher Performance und modernem UI zu entwickeln,
+das Verkaufsdaten, Nutzerstatistiken, 
+Bestellungen und Produkte strukturiert und effizient darstellt.
 
 ⸻
 
