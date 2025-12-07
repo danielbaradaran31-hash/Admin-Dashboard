@@ -73,8 +73,10 @@ const StatCards = () => {
             className="absolute right-5 top-3 w-[14.5%]"
           />
         </div>
+        
       ))}
     </div>
+    // End
   );
 };
 
