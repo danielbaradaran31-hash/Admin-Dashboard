@@ -51,7 +51,7 @@ const data = [
     id: 2,
     productName: "Iphone 12 Pro",
     location: "  Heidelberg",
-    date: "05.06.2025",
+    date: "05.07.2025",
     quantity: "1",
     totalPrice: "€735",
     status: (
