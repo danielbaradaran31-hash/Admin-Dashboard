@@ -46,7 +46,7 @@ Dieses Projekt ist ein modernes und leistungsstarkes Admin-Dashboard, entwickelt
 
 1. Repository klonen
 
-git clone https://github.com/USERNAME/REPO-NAME.git
+git clone https://github.com/danielbaradaran31-hash/REPO-Admin-Dashboard.git
 
 📌 Ziel des Projekts
 
