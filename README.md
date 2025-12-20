@@ -1,6 +1,6 @@
 🚀 Admin-Dashboard – React + Vite + TypeScript
 
-Dieses Projekt ist ein modernes und leistungsstarkes Admin-Dashboard, entwickelt mit React, Vite und TypeScript. Es bietet eine übersichtliche Darstellung von Produkten, Verkaufsstatistiken, Diagrammen, Nutzerzahlen und Bestellungen. Das Dashboard eignet sich sowohl für reale Geschäftsprojekte als auch für Lern- und Demonstrationszwecke.
+# Dieses Projekt ist ein modernes und leistungsstarkes Admin-Dashboard, entwickelt mit React, Vite und TypeScript. Es bietet eine übersichtliche Darstellung von Produkten, Verkaufsstatistiken, Diagrammen, Nutzerzahlen und Bestellungen. Das Dashboard eignet sich sowohl für reale Geschäftsprojekte als auch für Lern- und Demonstrationszwecke.
 
 ⸻
 
@@ -58,5 +58,5 @@ Bestellungen und Produkte strukturiert und effizient darstellt.
 
 🤝 Beiträge
 
-Beiträge sind jederzeit willkommen!
-Sie können Pull Requests einreichen oder Issues eröffnen.
+#Beiträge sind jederzeit willkommen!
+#Sie können Pull Requests einreichen oder Issues eröffnen.
